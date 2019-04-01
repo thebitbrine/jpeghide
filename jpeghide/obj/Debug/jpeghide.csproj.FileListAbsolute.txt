@@ -1,0 +1,10 @@
+C:\Users\TheBitBrine-PC\source\repos\jpeghide\jpeghide\bin\Debug\jpeghide.exe.config
+C:\Users\TheBitBrine-PC\source\repos\jpeghide\jpeghide\bin\Debug\jpeghide.exe
+C:\Users\TheBitBrine-PC\source\repos\jpeghide\jpeghide\bin\Debug\jpeghide.pdb
+C:\Users\TheBitBrine-PC\source\repos\jpeghide\jpeghide\obj\Debug\jpeghide.csprojAssemblyReference.cache
+C:\Users\TheBitBrine-PC\source\repos\jpeghide\jpeghide\obj\Debug\jpeghide.csproj.CoreCompileInputs.cache
+C:\Users\TheBitBrine-PC\source\repos\jpeghide\jpeghide\obj\Debug\jpeghide.exe
+C:\Users\TheBitBrine-PC\source\repos\jpeghide\jpeghide\obj\Debug\jpeghide.pdb
+C:\Users\TheBitBrine-PC\source\repos\jpeghide\jpeghide\bin\Debug\SevenZip.dll
+C:\Users\TheBitBrine-PC\source\repos\jpeghide\jpeghide\bin\Debug\SevenZip.xml
+C:\Users\TheBitBrine-PC\source\repos\jpeghide\jpeghide\obj\Debug\jpeghide.csproj.CopyComplete
